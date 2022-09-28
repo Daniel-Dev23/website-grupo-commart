@@ -24,7 +24,7 @@ Así que para esta actividad, me apoye de una plantilla gratuita elaborada con H
 
 Gran parte de la estructura ya estaba preestablecida, sin embargo, mi labor se destaca en tener que adaptpar el sitio a la necesidadees de la empresa, además de hacer la corrección de errores de diseño que ya veninan con la plantilla misma.
 
-__[Ver Imagenes De Proyecto](./thumbnails.md)__
+__[Ver Imágenes De Proyecto](./thumbnails.md)__
 
 <br>
 
