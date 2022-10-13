@@ -1,5 +1,8 @@
 # __Website Grupo Commart S.A. de C.V.__
 
+Este sitio web es público para todos: https://www.grupocommart.com.mx/
+De igual manera, cuento con permisos para mostrar imágenes previas:
+
 > Inicio
 
 <div>
